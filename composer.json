@@ -1,0 +1,8 @@
+{
+    "name": "castr/smarty-intro",
+    "description": "My first project with Smarty",
+    "type": "project",
+    "require": {
+        "smarty/smarty": "^5.4"
+    }
+}
